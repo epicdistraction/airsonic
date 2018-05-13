@@ -213,9 +213,9 @@
         </dependency>
 
         <dependency>
-            <groupId>net.jthink</groupId>
+            <groupId>com.github.goxr3plus</groupId>
             <artifactId>jaudiotagger</artifactId>
-            <version>2.2.5</version>
+            <version>V2.2.6</version>
         </dependency>
 
         <dependency>
