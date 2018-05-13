@@ -213,9 +213,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.github.goxr3plus</groupId>
+            <groupId>org.bitbucket.ijabz</groupId>
             <artifactId>jaudiotagger</artifactId>
-            <version>V2.2.6</version>
+            <version>22910d4</version>
         </dependency>
 
         <dependency>
